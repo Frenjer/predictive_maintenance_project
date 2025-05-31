@@ -17,7 +17,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
 
- git clone <https://github.com/Frenjer/predictive_maintenance_project.git>
+ git clone <git@github.com:Frenjer/predictive_maintenance_project.git>
 
 2. Установите зависимости:
  pip install -r requirements.txt
